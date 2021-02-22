@@ -18,11 +18,11 @@ class MyApp extends StatelessWidget {
         ),
         TextField(),
         SizedBox(
-          height: 30,
+          height: 50,
         ),
         TextField(),
         SizedBox(
-          height: 30,
+          height: 50,
         ),
         FlatButton(
             onPressed: () {
